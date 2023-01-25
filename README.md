@@ -1,1 +1,3 @@
 # hello-world
+<p> My name is kuldeep kaur dhillon, i am the student of web development and internet applications fundamentals program. we  all known the scope and lucuratives of the internet increses therefore design profession is gaining popularity all around the world.
+ I also want to become web designer and enhance my knowledge in this particular field. Now i  have basic knowledge of html and i want to enhance my knowledge of html coding, apart from this i have decided to make online shopping website in future as nowadays people are busy in their life due to which these websites are highly popular among the people.By making online shopping website i can earn enough to fulfill all the luxuries of life.</p>
